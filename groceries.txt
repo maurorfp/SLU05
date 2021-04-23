@@ -3,4 +3,5 @@ Groceries liste:
     - Fruit
     - stuff
     - butter
+    - eggs
 
