@@ -1,0 +1,5 @@
+Groceries liste:
+    - Toilet paper
+    - Fruit
+    - stuff
+
